@@ -1,1 +1,2 @@
 Bu ilk oluşturulan dosya.
+burası server tarafında editlendi.
